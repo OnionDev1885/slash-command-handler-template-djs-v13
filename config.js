@@ -5,7 +5,7 @@ config.settings = {};
 
 // General settings
 config.general.botName = '';
-config.general.guildid = '858735805606264852';
+config.general.guildid = '';
 config.general.clientid = '';
 
 // Settings
