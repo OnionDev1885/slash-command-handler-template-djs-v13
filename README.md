@@ -23,14 +23,13 @@
 # Notes
 - If you have a testing bot, then use `guild` commands!
 - Invite your bot with `applications.commands` scope to have slash commands!
-- Use `Global` commands if you have a public bot/multi-server
+- Use `global` commands if you have a public bot/multi-server bot
 - Slash Commands take time to show up on every Guild!
-- Global commands show up fater than Guild commands! The larger the guilds your bot is in, the more time it takes!
+- Global commands show up faster than Guild commands! The larger the guilds your bot is in, the more time it takes!
 
 # Sponsors
 - [SetupManager](https://setupmanager.ml) - It's a cool multipurpose bot, with unique features and alot of commands useful to a guild!
 - [TRG Development](https://dev.trgop.gq) - Join now for free services with less resources and cheap services for a much resources that u get at high price at other sites!
-- Discordia - A cool economy bot. Currently in development!
 - [HomeTown Official](https://setupmanager.ml/giveaway) - A cool server with frequent giveaways and events! Can also win custom discord bots! Make sure to join it!
 
 # Credits
