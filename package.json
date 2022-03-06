@@ -1,0 +1,22 @@
+{
+    "name": "global-slash-commands",
+    "version": "1.0.1",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+      "dev": "node src/index.js"
+    },
+    "author": "OnionDev",
+    "github": "https://github.dev/OnionDev1885/slash-command-handler-template-djs-v13",
+    "website": "https://oniondev.gq",
+    "license": "ISC",
+    "dependencies": {
+      "@discordjs/builders": "^0.5.0",
+      "@discordjs/rest": "^0.1.0-canary.0",
+      "ascii-table": "^0.0.9",
+      "colour": "^0.7.1",
+      "discord-api-types": "^0.22.0",
+      "discord.js": "^13.5.0",
+      "dotenv": "^10.0.0"
+    }
+  }

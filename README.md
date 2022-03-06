@@ -16,6 +16,10 @@
 - Install everything by running `npm i` in terminal.
 - Start the project by running `npm run dev` in the terminal!
 
+# Requirements
+- Nodejs 16.6 or higher
+- Discord.js v13 or higher
+
 # Notes
 - If you have a testing bot, then use `guild` commands!
 - Invite your bot with `applications.commands` scope to have slash commands!
