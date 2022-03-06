@@ -1,7 +1,7 @@
 # Slash Commands Handler for Discord.js v13
 
 # Global Commands
-- This repository is for global slash commands aka slash commands for all guilds in which the bot has been invited with `applications.commands`` scope!
+- This repository is for global slash commands aka slash commands for all guilds in which the bot has been invited with `applications.commands` scope!
 
 # Guild Commands
 - Check the `guild` branch for guild commands aka slash commands for only one guild. Best if you have a single-server/private bot!
