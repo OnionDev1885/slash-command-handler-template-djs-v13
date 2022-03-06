@@ -1,12 +1,12 @@
 # Slash Commands Handler for Discord.js v13
 
 # Global Commands
-- This repository is for global slash commands aka slash commands for all guilds in which the bot has been invited with `applications.commands`` scope!
+- This repository is for global slash commands aka slash commands for all guilds in which the bot has been invited with `applications.commands` scope!
 
 # Guild Commands
 - Check the `guild` branch for guild commands aka slash commands for only one guild. Best if you have a single-server/private bot!
 
-# This branch is for Global Commands
+# This branch is for Guild Commands
 
 # How to use?
 - Fork this repo.
@@ -15,6 +15,10 @@
 - Rename example.env to .env (if using replit, then use Replit Environment Variables)
 - Install everything by running `npm i` in terminal.
 - Start the project by running `npm run dev` in the terminal!
+
+# Requirements
+- Nodejs 16.6 or higher
+- Discord.js v13 or higher
 
 # Notes
 - If you have a testing bot, then use `guild` commands!
