@@ -12,7 +12,3 @@ config.settings.owners = [
     '793421085193404446',
     ''
 ];
-
-// Support
-config.support.guildid = '';
-config.support.owner = '';
